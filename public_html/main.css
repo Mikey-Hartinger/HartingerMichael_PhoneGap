@@ -1,0 +1,34 @@
+body {
+    background-color: red;
+    margin-left: 5%;
+    margin-right: 5%;
+     }
+     
+     header h1 {
+         background-color: black;
+         color: white;
+         margin-right: auto;
+         margin-left: auto;
+         text-align: center;
+     }
+     
+  label {
+        font-weight: bold;
+         color: gold;
+         font-size: 2em;
+  }
+  button{
+      background-color: black;
+      color:white;
+      height:3em;
+      width:10em;
+      margin-left: 25%;
+  }
+  
+  input{
+      background-color: black;
+      color:white;
+  }
+  fieldset{
+      background-color: blue;
+  }
